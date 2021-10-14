@@ -1,6 +1,6 @@
 # React Advices.
 
-> Practicing react (context api, styled components, axios).
+> Practicing React (context api, styled components, axios).
 
 ## Preview
 
